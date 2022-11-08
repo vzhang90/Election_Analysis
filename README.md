@@ -1,8 +1,8 @@
 # Election Analysis
 
-#**Overview**
+# **Overview**
 Tom and Seth require help analyzing election audit results to the election commission.
 
-#Results
+# Results
 
-#Analysis
+# Analysis
