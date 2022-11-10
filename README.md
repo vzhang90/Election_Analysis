@@ -9,13 +9,26 @@ A complete election audit of a recent local congressional electionl to the Color
     5. Determine the winner of the election based on popular vote  
   
 ## Resources
+- Election Results: election_results.csv
+- Software: Python 3.6.1, Visual Studio Code, 1.38.1  
 
 ## Summary
 The analysis of the election show that:
+  - There were "x" votes in the election
+  - The candidates were: 
+     - 
+     -
+     - Diane DeGette
+  - The candidate results were:
+     - Candidate 1 received "%"of the vote and "y" number of votes.
+     - Candidate 2 recieved "%" of the vote and "Y" number of votes.
+     - Diane DeGette who received 73.8% of the vote and 272,892 number of votes.
+  - The winner of the election was:
+     - Diane DeGette who received 73.8% of the vote and 272,892 number of votes.
+       
 
-## **Overview**
+## Challenge Overview
 Tom and Seth require help analyzing election audit results to the election commission.
 
-## Results
-The results show Diane DeGette was the winner of the election with 73.8% of the votes and 272,892 votes.
-## Analysis
+## Challenge Summary
+
