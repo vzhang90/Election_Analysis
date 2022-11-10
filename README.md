@@ -20,7 +20,7 @@ The analysis of the election show that:
      - Charles Casper Stockham
      - Diane DeGette  
      - Raymond Anthony Doane  
-     -
+     
   - The candidate results were:
      - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
      - Diane DeGette who received 73.8% of the vote and 272,892 number of votes.  
