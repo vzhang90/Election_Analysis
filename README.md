@@ -31,7 +31,7 @@ The analysis of the election show that:
        
 
 ## Challenge Overview
-Tom and Seth require help analyzing election audit results to the election commission.
+Tom and Seth require help analyzing election audit results to the election commission. Utilizing Python scripts, the objective is to extract the election results from a csv file to print to a command line and to save to a text file.
 
 ## Challenge Summary
-
+Working from the `election_results.csv` file, use conditional & non-conditional statements with membership and logical operators to find the requested results. These results will be printed to the command line and subsequently saved in the text `election_results.txt` file.
