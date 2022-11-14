@@ -17,6 +17,17 @@ A complete election audit of a recent local congressional electionl to the Color
 
 The analysis of the election show that:
   - There were 369,711 votes in the election
+  - The counties were:
+     - Jefferson
+     - Denver
+     - Arapahoe
+   
+  - The county results were:
+     - Jefferson County received 10.5% of the vote and 38,855 number of votes
+     - Denver County receieved 82.8% of the vote and 306,055 number of votes
+     - Arapahoe County receieved 6.7% of the vote and 24,801 number of votes
+     
+  - The county with the largest turnout: Denver
   
   - The candidates were: 
      - Charles Casper Stockham
