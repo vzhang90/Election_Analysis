@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Project Overview
-Tom and Seth require help analyzing election audit results to the election commission. Working from the [election_results file](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv), use conditional & non-conditional statements with membership and logical operators to find the requested results. These results will be printed to the command line and subsequently saved in the text [election_analysis file](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv).
+Tom and Seth require help analyzing election audit results to the election commission. Working from the [election_results.csv file](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv), use conditional & non-conditional statements with membership and logical operators to find the requested results. These results will be printed to the command line and subsequently saved in the text [election_analysis.txt file](https://github.com/vzhang90/Election_Analysis/blob/main/analysis/election_analysis.txt).
 
 A complete election audit of a recent local congressional electionl to the Colorado Board of Elections employee has been analyzed through Python script to deliver the following information:  
     1. Calculate the total number of votes cast  
