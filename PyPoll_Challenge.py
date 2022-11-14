@@ -25,6 +25,10 @@ winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
 
+largest_turnout = ""
+cwinning_count = 0
+cwinning_percentage = 0
+
 # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
     reader = csv.reader(election_data)
@@ -83,9 +87,9 @@ with open(file_to_save, "w") as txt_file:
         print(county_results)
         txt_file.write(county_results)
         
-        if (cvotes > winning_count) and (cvote_percentage > winning_percentage):
-            winning_count = cvotes
-            winning_percentage = cvote_percentage
+        if (cvotes > cwinning_count) and (cvote_percentage > cwinning_percentage):
+            cwinning_count = cvotes
+            cwinning_percentage = cvote_percentage
             largest_turnout = county_name
 
     county_summary = (
