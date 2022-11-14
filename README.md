@@ -16,7 +16,7 @@ A complete election audit of a recent local congressional electionl to the Color
 - Python Script: [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Results
-- Election Analysis: [election_analysis.txt](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv)
+- Election Analysis: [election_analysis.txt](https://github.com/vzhang90/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 The analysis of the election show that:
   - There were 369,711 votes in the election
