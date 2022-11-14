@@ -47,7 +47,7 @@ The analysis of the election show that:
       
 
 ## Election Audit Summary
-The attached script [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py) can be used for any election. There could be an additional information added with: 
+The attached script [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py) can be used for any election if given each individual result of all anonymous voter ID ballots in a given situation. However, there could be an additional information added with: 
 
 1) **Winning vote difference** to determine by how many votes the winner of the election had more than the candidate with the 2nd highest number of votes.
 
