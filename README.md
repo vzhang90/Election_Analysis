@@ -46,4 +46,4 @@ The analysis of the election show that:
       
 
 ## Election Audit Summary
-Working from the `election_results.csv` file, use conditional & non-conditional statements with membership and logical operators to find the requested results. These results will be printed to the command line and subsequently saved in the text `election_results.txt` file.
+The 
