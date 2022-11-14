@@ -13,13 +13,14 @@ A complete election audit of a recent local congressional electionl to the Color
 ## Resources
 - Election Results: [election_results.csv](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1  
+- Python Script: [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Results
 - Election Analysis: [election_analysis.txt](https://github.com/vzhang90/Election_Analysis/blob/main/Resources/election_results.csv)
 
 The analysis of the election show that:
   - There were 369,711 votes in the election
-  - The counties were:
+  - The counties were:  
      - Jefferson
      - Denver
      - Arapahoe
@@ -46,4 +47,4 @@ The analysis of the election show that:
       
 
 ## Election Audit Summary
-The 
+The attached script [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py) can be used for any election. There could be an additional information added with another stated variable `winning vote interval` to determine by how many votes the winner of the election won by.
