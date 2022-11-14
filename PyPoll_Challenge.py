@@ -68,7 +68,6 @@ with open(file_to_load) as election_data:
 # Save the results to our text file.
 with open(file_to_save, "w") as txt_file:
 
-    # 6d: Print the final vote count (to terminal)
     election_results = (
         f"\nElection Results\n"
         f"-------------------------\n"
