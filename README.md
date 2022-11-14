@@ -47,4 +47,8 @@ The analysis of the election show that:
       
 
 ## Election Audit Summary
-The attached script [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py) can be used for any election. There could be an additional information added with another stated variable `winning vote difference` to determine by how many votes the winner of the election had more than the candidate with the 2nd highest number of votes.
+The attached script [Python_Challenge.py](https://github.com/vzhang90/Election_Analysis/blob/main/PyPoll_Challenge.py) can be used for any election. There could be an additional information added with: 
+
+1) another stated variable `winning vote difference` to determine by how many votes the winner of the election had more than the candidate with the 2nd highest number of votes.
+
+2) The number of votes and percentage of votes each candidate receieved in each county.
